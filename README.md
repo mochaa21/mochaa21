@@ -1,22 +1,20 @@
+<!-- Perbaikan: Banner Aktivitas Dinamis (Menggantikan aset lokal yang rusak) -->
 <div align="center">
-  <!-- Banner Adaptif: Menggunakan tag picture untuk transisi logika Dark/Light Mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/main/assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/main/assets/banner-light.svg">
-    <img alt="Mochammad Syahid Fariz Abqari - Software Engineer" src="https://raw.githubusercontent.com/mochaa21/mochaa21/main/assets/banner-fallback.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mochaa21&theme=react&bg_color=0D1117&color=F0EDCF&line=F0EDCF&point=FFFFFF&area=true&hide_border=true" alt="mochaa21's contribution graph" width="100%">
 </div>
 
 <br>
 
-Saya adalah seorang *Software Engineer* yang berfokus pada pengembangan sistem, rekayasa otomatisasi, dan pemecahan masalah komputasi. Saya memiliki rekam jejak dalam merancang bot eksekusi otomatis yang terintegrasi dengan pustaka data eksternal, serta terbiasa menavigasi alur kerja terminal untuk pengelolaan infrastruktur kode.
+## Hi there! I'm Mochaa21 👋
 
-### 🚀 Spesialisasi Teknis
-- 💻 **Rekayasa & Otomatisasi:** Mengembangkan skrip **Python** tingkat lanjut untuk otomatisasi pemrosesan dan ekstraksi data.
-- 🛠️ **Version Control:** Menerapkan praktik terbaik integrasi dan manajemen repositori secara konsisten melalui **Git** dan antarmuka VS Code.
-- 🌐 **Dokumentasi Publik:** Mendokumentasikan eksplorasi teknis dan pemikiran pengembangan perangkat lunak melalui blog personal (pikaxora.blogspot.com).
+I am a Software Engineer focused on system development, automation engineering, and computational problem-solving. I have a proven track record in designing automated execution bots integrated with external data libraries, and I am proficient in navigating terminal workflows for code infrastructure management.
 
-### ⚙️ Tumpukan Teknologi (Tech Stack)
+### 🚀 Technical Specializations
+- 💻 **Engineering & Automation:** Developing advanced Python scripts for process automation and data extraction.
+- 🛠️ **Version Control:** Consistently applying best practices for repository integration and management via Git and VS Code interfaces.
+- 🌐 **Public Documentation:** Documenting technical exploration and software development thought leadership via personal blog (pikaxora.blogspot.com).
+
+### ⚙️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -24,12 +22,12 @@ Saya adalah seorang *Software Engineer* yang berfokus pada pengembangan sistem, 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-### 📊 Telemetri & Analitik Kinerja
+### 📊 Performance Telemetry & Analytics
 
 <div align="center">
-  <!-- GitHub Readme Stats: Menggunakan API untuk merender metrik waktu nyata -->
+  <!-- GitHub Readme Stats: Real-time aggregate metric parsing via GraphQL API -->
   <img src="https://github-readme-stats.vercel.app/api?username=mochaa21&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" alt="Statistik GitHub" width="48%" />
-  <!-- GitHub Streak Stats: Menunjukkan konsistensi operasional harian -->
+  <!-- GitHub Streak Stats: Demonstrating operational consistency and resilience -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochaa21&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -38,10 +36,10 @@ Saya adalah seorang *Software Engineer* yang berfokus pada pengembangan sistem, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=radium&hide_border=true" alt="Bahasa Pemrograman Teratas" width="60%" />
 </div>
 
-### 🐍 Algoritma Kontribusi CI/CD (Platane/snk)
+### 🐍 Contribution Algorithm CI/CD (Platane/snk)
 
 <div align="center">
-  <!-- Animasi SVG Ular yang dirender via GitHub Actions -->
+  <!-- Animasi SVG Ular yang dirender via GitHub Actions (Masih placeholder, butuh setup YAML) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake.svg">
