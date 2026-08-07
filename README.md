@@ -1,4 +1,3 @@
-<!-- Perbaikan: Banner Aktivitas Dinamis (Menggantikan aset lokal yang rusak) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mochaa21&theme=react&bg_color=0D1117&color=F0EDCF&line=F0EDCF&point=FFFFFF&area=true&hide_border=true" alt="mochaa21's contribution graph" width="100%">
 </div>
@@ -12,7 +11,7 @@ I am a Software Engineer focused on system development, automation engineering, 
 ### 🚀 Technical Specializations
 - 💻 **Engineering & Automation:** Developing advanced Python scripts for process automation and data extraction.
 - 🛠️ **Version Control:** Consistently applying best practices for repository integration and management via Git and VS Code interfaces.
-- 🌐 **Public Documentation:** Documenting technical exploration and software development thought leadership via personal blog (pikaxora.blogspot.com).
+- ⚙️ **Algorithmic Logic:** Building efficient logic structures and maintaining clean, scalable code architecture.
 
 ### ⚙️ Tech Stack
 
@@ -25,21 +24,20 @@ I am a Software Engineer focused on system development, automation engineering, 
 ### 📊 Performance Telemetry & Analytics
 
 <div align="center">
-  <!-- GitHub Readme Stats: Real-time aggregate metric parsing via GraphQL API -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mochaa21&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" alt="Statistik GitHub" width="48%" />
-  <!-- GitHub Streak Stats: Demonstrating operational consistency and resilience -->
+  <!-- Menggunakan instance alternatif untuk menghindari Vercel rate limits -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mochaa21&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochaa21&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <!-- Top Languages Card: Proporsi komputasi berbasis byte -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=radium&hide_border=true" alt="Bahasa Pemrograman Teratas" width="60%" />
+  <!-- Menggunakan instance alternatif untuk Top Languages -->
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
-### 🐍 Contribution Algorithm CI/CD (Platane/snk)
+### 🐍 Contribution Algorithm CI/CD
 
 <div align="center">
-  <!-- Animasi SVG Ular yang dirender via GitHub Actions (Masih placeholder, butuh setup YAML) -->
+  <!-- Animasi SVG Ular yang akan dirender via GitHub Actions -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake.svg">
