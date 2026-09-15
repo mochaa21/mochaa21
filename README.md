@@ -16,7 +16,6 @@ class SoftwareEngineer:
             "Linear Algebra", 
             "Machine Learning Architectures"
         ]
-        self.past_stack = ["Laravel", "Flutter", "PHP"]
         self.status = "Building foundations for intelligent systems"
 
     def get_downtime(self):
@@ -31,3 +30,14 @@ class SoftwareEngineer:
             self.engage_deep_work(telemetry="WakaTime")
             self.push_to_github()
             self.optimize_logic()
+
+    def display_metrics(self):
+        """
+        Fetches live telemetry data from GitHub servers.
+        Includes Contribution Stats, Top Languages, and Daily Streaks.
+        """
+        return self.render_dashboard()
+
+if __name__ == "__main__":
+    aby = SoftwareEngineer()
+    aby.display_metrics()
