@@ -1,46 +1,53 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mochaa21&theme=react&bg_color=0D1117&color=F0EDCF&line=F0EDCF&point=FFFFFF&area=true&hide_border=true" alt="mochaa21's contribution graph" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
+  
+  <h1>> Aby_Ashera.exe</h1>
+  
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;System.out.println(%22Python+%26+Math%22);Transitioning+from+Full-Stack" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <i>"Building the mathematical and logical foundations for tomorrow's intelligent systems."</i>
+  </p>
+</div>
+
+---
+
+### [ /sys/user_profile ]
+
+* **Current Focus**   : Deep-diving into Python, Linear Algebra, and Machine Learning architectures.
+* **Objective**       : Building a robust developer portfolio to transition fully into the AI ecosystem.
+* **Work Ethic**      : Maintaining a structured daily deep-work routine, tracked via WakaTime and GitHub commits.
+* **Downtime**        : Exploring Stoic philosophy or analyzing the narrative lore of The Witcher 3.
+
+### [ /sys/tech_stack ]
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Icon bulat minimalis tanpa teks tambahan -->
+    <img src="https://skillicons.dev/icons?i=python,git,vscode,figma,mysql,laravel,flutter,dart&theme=dark" />
+  </a>
 </div>
 
 <br>
 
-## Hi there! I'm Mochaa21 👋
-
-I am a Software Engineer focused on system development, automation engineering, and computational problem-solving. I have a proven track record in designing automated execution bots integrated with external data libraries, and I am proficient in navigating terminal workflows for code infrastructure management.
-
-### 🚀 Technical Specializations
-- 💻 **Engineering & Automation:** Developing advanced Python scripts for process automation and data extraction.
-- 🛠️ **Version Control:** Consistently applying best practices for repository integration and management via Git and VS Code interfaces.
-- ⚙️ **Algorithmic Logic:** Building efficient logic structures and maintaining clean, scalable code architecture.
-
-### ⚙️ Tech Stack
+### [ /sys/telemetry_data ]
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <!-- show_icons=false mematikan icon di dalam stat card agar tampil murni teks dan angka -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mochaa21&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
-### 📊 Performance Telemetry & Analytics
+<br>
 
 <div align="center">
-  <!-- Menggunakan instance alternatif untuk menghindari Vercel rate limits -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mochaa21&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochaa21&theme=radium&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochaa21&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </div>
 
 <div align="center">
-  <!-- Menggunakan instance alternatif untuk Top Languages -->
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="60%" />
-</div>
-
-### 🐍 Contribution Algorithm CI/CD
-
-<div align="center">
-  <!-- Animasi SVG Ular yang akan dirender via GitHub Actions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake.svg">
-    <img alt="Animasi GitHub Snake" src="https://raw.githubusercontent.com/mochaa21/mochaa21/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
 </div>
