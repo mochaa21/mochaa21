@@ -44,14 +44,14 @@ if __name__ == "__main__":
 <div align="center">
   <p><code>>>> Terminal Output: Rendering Dashboard... </code></p>
   
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
-    <img src="[https://skillicons.dev/icons?i=python,git,vscode,figma,mysql,laravel,flutter,dart&theme=dark](https://skillicons.dev/icons?i=python,git,vscode,figma,mysql,laravel,flutter,dart&theme=dark)" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,vscode,figma,mysql,laravel,flutter,dart&theme=dark" />
   </a>
   <br><br>
 
-  <img src="[https://github-readme-stats.vercel.app/api?username=mochaa21&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=false](https://github-readme-stats.vercel.app/api?username=mochaa21&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=false)" width="48%" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mochaa21&theme=tokyonight&hide_border=true&bg_color=0D1117&show_icons=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochaa21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <br><br>
 
-  <img src="[https://streak-stats.demolab.com/?user=mochaa21&theme=tokyonight&hide_border=true&background=0D1117](https://streak-stats.demolab.com/?user=mochaa21&theme=tokyonight&hide_border=true&background=0D1117)" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=mochaa21&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </div>
