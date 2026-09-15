@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800" />
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=import+numpy+as+np;from+future+import+AI_Engineer;System_Initialized...;Executing_Main_Thread()" alt="Typing SVG" />
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)" width="800" />
+  <br>
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=import+numpy+as+np;from+future+import+AI_Engineer;System_Initialized...;Executing_Main_Thread](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=import+numpy+as+np;from+future+import+AI_Engineer;System_Initialized...;Executing_Main_Thread)()" alt="Typing SVG" />
   </a>
 </div>
 
